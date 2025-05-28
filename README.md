@@ -35,4 +35,5 @@ This project showcases real-world DevOps skills:
 - Metrics and observability
 - Alerting and incident response
 - Dashboarding and data visualization
+
 It’s designed for scalability, making it suitable for production environments.
