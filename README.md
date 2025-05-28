@@ -31,12 +31,8 @@ A robust server monitoring solution providing **real-time performance insights, 
 ## Why This Project Matters
 This project showcases real-world DevOps skills:
 
-Infrastructure monitoring
-
-Metrics and observability
-
-Alerting and incident response
-
-Dashboarding and data visualization
-
+- Infrastructure monitoring
+- Metrics and observability
+- Alerting and incident response
+- Dashboarding and data visualization
 It’s designed for scalability, making it suitable for production environments.
